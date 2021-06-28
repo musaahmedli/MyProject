@@ -1,0 +1,13 @@
+D:\files\C#\HotelManagementProject\HotelManagementProject\bin\Debug\HotelManagementProject.exe.config
+D:\files\C#\HotelManagementProject\HotelManagementProject\bin\Debug\HotelManagementProject.exe
+D:\files\C#\HotelManagementProject\HotelManagementProject\bin\Debug\HotelManagementProject.pdb
+D:\files\C#\HotelManagementProject\HotelManagementProject\obj\Debug\HotelManagementProject.LoginForm.resources
+D:\files\C#\HotelManagementProject\HotelManagementProject\obj\Debug\HotelManagementProject.MainMenuForm.resources
+D:\files\C#\HotelManagementProject\HotelManagementProject\obj\Debug\HotelManagementProject.Properties.Resources.resources
+D:\files\C#\HotelManagementProject\HotelManagementProject\obj\Debug\HotelManagementProject.Register.resources
+D:\files\C#\HotelManagementProject\HotelManagementProject\obj\Debug\HotelManagementProject.csproj.GenerateResource.cache
+D:\files\C#\HotelManagementProject\HotelManagementProject\obj\Debug\HotelManagementProject.csproj.CoreCompileInputs.cache
+D:\files\C#\HotelManagementProject\HotelManagementProject\obj\Debug\HotelManagementProject.exe
+D:\files\C#\HotelManagementProject\HotelManagementProject\obj\Debug\HotelManagementProject.pdb
+D:\files\C#\HotelManagementProject\HotelManagementProject\obj\Debug\HotelManagementProject.GuestArrange.resources
+D:\files\C#\HotelManagementProject\HotelManagementProject\obj\Debug\HotelManagementProject.csprojAssemblyReference.cache
